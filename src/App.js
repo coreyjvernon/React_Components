@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Navbar from '/components/Navbar.js'
-import Contact from '/components/Contact.js'
-import Footer from '/components/Footer.js'
-import Home from '/components/Home.js'
-import Main from '/components/Main.js'
-import Projects from '/components/Projects.js'
-import Resume from '/components/Resume.js'
-import SocialLinks from '/components/SocialLinks.js'
+import Navbar from './components/Navbar.js'
+import Contact from './components/Contact.js'
+import Footer from './components/Footer.js'
+import Home from './components/Home.js'
+import Main from './components/Main.js'
+import Projects from './components/Projects.js'
+import Resume from './components/Resume.js'
+import SocialLinks from './components/SocialLinks.js'
 
 import './App.css';
 
